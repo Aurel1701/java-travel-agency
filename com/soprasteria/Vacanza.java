@@ -34,8 +34,6 @@ public class Vacanza {
         this.dataFine = vacanza.dataFine;
     }
 
-   
-
     public String getDestinazione() {
         return destinazione;
     }
